@@ -1,2 +1,2 @@
 # mongooseIntro
-Basic Operations with Mongoose (MongoDB Javascript's ORM)
+Basic CRUD Operations with Mongoose (MongoDB Javascript's ORM)
